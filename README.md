@@ -4,3 +4,7 @@ and PubSub design
 the gama in Real-Time 
 by tow players.
 
+
+the project write by tamar 
+python and libaries
+
